@@ -2,12 +2,6 @@
 This Repository is for the Codebasics Resume Challenge i have analysis  the supply of chain  data and make a report for this Challange.
 
 
-Hello everyone,
-
-Here is my submission for #codebasicsresumeprojectchallenge for October month.
-
-
-
 Problem Statement-
 
 AtliQ Mart is currently facing a problem where a few key customers did not extend the annual contract due to service issues. Management requested their supply chain analytics team to track the ’On time’ and ‘In Full’ delivery service level for all the customers on a daily basis so that they can respond swiftly to these issues.
